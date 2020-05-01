@@ -1,4 +1,4 @@
 # hello-world
 Just my first repository
-And now adding one new line to the README file (or FILE in caps).
-And addin a 4th line 
+OK, lets get serious. This is my 4th update to my README file
+I'm updating it in th eBRANCH, and deleting lines 3-4.
